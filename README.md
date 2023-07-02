@@ -1,7 +1,7 @@
 ![MASTER](https://retool.com/blog/content/images/2022/02/gotchas-git-github-banner-1.png)
 <h1 align="center">Hi 👋, I'm Assaf!</h1>
 <h3 align="center">A passionate web developer based in Berlin</h3>
-<img align=“right” alt=“developer” width=“400 src=“https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966”>
+<img align=“right” alt=“developer” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
 
 - 🔭 Last project i've been working on [https://image-pin-board-c97d005f705d.herokuapp.com/home](https://image-pin-board-c97d005f705d.herokuapp.com/home)
 
