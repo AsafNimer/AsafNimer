@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Assaf!</h1>
 <h3 align="center">A passionate web developer based in Berlin</h3>
 
-I am a full-stack web developer based in Berlin. Being a web development bootcamp graduate, it has been almost two years since I shifted into web-development. It's an intense, yet rewarding journey. Currently, I am working on building my portfolio as well as further strengthening and deepening my coding skills with various frameworks and technologies both in frontend and backend.
+I am a full-stack web developer based in Berlin. It has been almost two years since I shifted into web-development. It's an intense, yet rewarding journey. Currently, I am working on building my portfolio as well as further strengthening and deepening my coding skills with various frameworks and technologies both in frontend and backend.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
