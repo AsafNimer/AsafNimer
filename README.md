@@ -4,15 +4,21 @@
 
 I am a full-stack web developer based in Berlin. Being a web development bootcamp graduate, it has been almost two years since I shifted into web-development. It's an intense, yet rewarding journey. Currently, I am working on building my portfolio as well as further strengthening and deepening my coding skills with various frameworks and technologies both in frontend and backend.
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+	![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="coding"/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AsafNimer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/asaf-nimer/)
 - 💬 Reach out with any topic you feel like
 - Example from my last project:  
 <a href="https://image-pin-board-c97d005f705d.herokuapp.com/home" target="blank">https://image-pin-board-c97d005f705d.herokuapp.com/home</a>
-
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=AsafNimer&show_icons=true&theme=tokyonight" alt="stats"/>
-
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="stats"/>
-
-
