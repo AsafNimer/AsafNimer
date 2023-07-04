@@ -21,7 +21,3 @@ I am a full-stack web developer based in Berlin. It has been almost two years si
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AsafNimer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/asaf-nimer/)
 - 💬 Reach out with any topic you feel like
-- Example from my last projects:  
-<a href="https://image-pin-board-c97d005f705d.herokuapp.com/home" target="blank">https://image-pin-board-c97d005f705d.herokuapp.com/home</a>
-
-<a href="https://oceans-petition-ce6ef5bd5b38.herokuapp.com/home" target="blank">https://oceans-petition-ce6ef5bd5b38.herokuapp.com/home</a>
