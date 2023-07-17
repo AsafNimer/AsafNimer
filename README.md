@@ -21,4 +21,4 @@ I am a full-stack web developer based in Berlin. It has been almost two years si
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AsafNimer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/asaf-nimer/)
-- 💬 Reach out with any topic you feel like
+- 💬 You are welcome to reach out with any topic
